@@ -1,0 +1,6 @@
+---
+- name: Starting nginx
+  ansible.builtin.service:
+    name: nginx
+    pattern: nginx
+    state: started
