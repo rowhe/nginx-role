@@ -2,6 +2,7 @@ Role Name
 =========
 
 nginx-role
+
 Requirements
 ------------
 Обязательно будет заполнен  :)
